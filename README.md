@@ -77,7 +77,7 @@ index.html
       </div>
       <div class="card">
         <img src="em3.jpg" alt="Employee 3">
-        <h3>John</h3>
+        <h3>Isaac</h3>
         <p>Position: Manager</p>
       </div>
     </div>
@@ -89,17 +89,17 @@ index.html
     <div class="container">
       <div class="card">
         <img src="image.png" alt="Student 1">
-        <h3>John</h3>
+        <h3>zeke</h3>
         <p>Course: Computer Science</p>
       </div>
       <div class="card">
         <img src="image.png" alt="Student 2">
-        <h3>Johnson</h3>
+        <h3>izzy</h3>
         <p>Course: Information Technology</p>
       </div>
       <div class="card">
         <img src="image.png" alt="Student 3">
-        <h3>Ken</h3>
+        <h3>ace</h3>
         <p>Course: Business</p>
       </div>
     </div>
